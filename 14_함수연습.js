@@ -163,3 +163,4 @@ console.log("git test 중~ 학원에서 작성");
 console.log("git test 중~ 집에서 작성");
 console.log("git test 중~ gitTest에서 작성");
 console.log("git test 중~ gitTest에서 작성 학원pc");
+console.log("git test 중~ gitTest에서 작성 집pc");
